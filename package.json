@@ -1,12 +1,12 @@
 {
   "name": "dubsoft",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "dubsoft =======",
   "main": "index.js",
   "private": "true",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
-    "start": "node index"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "gitHead": "f1c2b43fda7d2f24158920c65cf40e1d6c4fcd76",
   "dependencies": {
     "tako": "~0.3.0"
+  },
+  "subdomain": "wlaurance-dubsoft",
+  "engines": {
+    "node": "0.8.x"
   }
 }
