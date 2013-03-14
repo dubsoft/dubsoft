@@ -1,0 +1,22 @@
+{
+  "name": "dubsoft",
+  "version": "0.0.0",
+  "description": "dubsoft =======",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dubsoft/dubsoft.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "f1c2b43fda7d2f24158920c65cf40e1d6c4fcd76",
+  "dependencies": {
+    "tako": "~0.3.0"
+  }
+}
